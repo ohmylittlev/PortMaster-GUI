@@ -462,7 +462,7 @@ msgstr "主菜单"
 
 #: PortMaster/pylibs/pugscene.py:370 PortMaster/pylibs/pugscene.py:1165
 msgid "Featured Ports"
-msgstr "精选作品"
+msgstr "精选"
 
 #: PortMaster/pylibs/pugscene.py:371
 msgid "Hand curated lists of ports"
