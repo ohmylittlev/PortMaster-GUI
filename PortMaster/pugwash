@@ -6,7 +6,7 @@ PORTMASTER_RELEASE_CHANNEL = 'beta'
 ## -- END PORTMASTER INFO --
 
 PORTMASTER_RELEASE_CHANNELS = {
-    'beta': 'https://github.com/PortsMaster/PortMaster-GUI/releases/latest/download/',
+    'beta': 'https://github.com/ohmylittlev/PortMaster-GUI/releases/latest/download/',
     'stable': 'https://github.com/PortsMaster/PortMaster-Releases/releases/latest/download/',
     }
 

@@ -46,7 +46,7 @@ class HarbourMaster():
 
     INFO_CHECK_INTERVAL = (60 * 60 * 1)
 
-    PORT_INFO_URL      = "https://github.com/PortsMaster/PortMaster-Info/raw/main/"
+    PORT_INFO_URL      = "https://github.com/ohmylittlev/PortMaster-Info/raw/main/"
     PORTS_INFO_URL     = PORT_INFO_URL + "ports_info.json"
     FEATURED_PORTS_URL = PORT_INFO_URL + "featured_ports.json"
     PORTERS_URL        = PORT_INFO_URL + "porters.json"
